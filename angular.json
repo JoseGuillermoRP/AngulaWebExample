@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ConfigurandoRutas"
+    }
+  },
+  "defaultProject": "ConfigurandoRutas",
+  "cli": {
+    "analytics": "8f84aa72-3673-43dc-bf3d-694dd8bf9205"
+  }
 }
